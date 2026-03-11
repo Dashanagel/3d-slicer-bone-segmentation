@@ -49,7 +49,15 @@ The workflow successfully produced:
 
 ## Screenshots
 
-(Images will be added here)
+### CT Slice
+![CT Slice](screenshots/ct_slice.png)
+
+### Segmentation
+![Segmentation](screenshots/segmentation.png)
+
+### 3D Bone Model
+![3D Model](screenshots/bone_3d.png)
+
 
 ## Skills Demonstrated
 
@@ -62,13 +70,3 @@ The workflow successfully produced:
 
 - Automated segmentation using machine learning
 - Integration with Python-based medical imaging pipelines
-- ## Screenshots
-
-### CT Slice
-![CT Slice](screenshots/ct_slice.png)
-
-### Segmentation
-![Segmentation](screenshots/segmentation.png)
-
-### 3D Bone Model
-![3D Model](screenshots/bone_3d.png)
